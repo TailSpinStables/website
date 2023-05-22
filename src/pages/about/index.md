@@ -11,13 +11,13 @@ Heather Turner - 484-319-7859
 
 Norah Pastorino
 
+C﻿urrently looking to add one more working student position. Please contact Heather if you are interested.
+
 ### Address:
 
 128 Brandamore Rd Honeybrook PA 19344
 
 T﻿ail Spin Stables is located on a privately owned property in Honeybrook, of Chester County Pa. We have a beautiful 7 stall barn with a large wash stall. There are 3 enormous run in sheds that allow shade in 3 of the fields. There is a separate building where we keep our tack and feed. This building has ample space and allows us to have our indoor classroom as well. Tail Spin Stables offers an outdoor ring with lights for those late night rides. We have a full course set up and beautiful hacking fields to keep our horse and ponies in shape. O﻿ur Tail Spin Family attends clinics, horseshows, paperchases, 4-h events, and more on a monthly basis. Check out our upcoming events to see what's happening around the barn. We are located near Hibernia Park and Marsh Creek State Park for those that like to venture out to bigger adventures. We are conveniently located between Harrisburg and Philadelphia.
-
-
 
 ### Lessons:
 
