@@ -15,9 +15,13 @@ Norah Pastorino
 
 128 Brandamore Rd Honeybrook PA 19344
 
+T﻿ail Spin Stables is located on a privately owned property in Honeybrook, of Chester County Pa. We have a beautiful 7 stall barn with a large wash stall. There are 3 enormous run in sheds that allow shade in 3 of the fields. There is a separate building where we keep our tack and feed. This building has ample space and allows us to have our indoor classroom as well. Tail Spin Stables offers an outdoor ring with lights for those late night rides. We have a full course set up and beautiful hacking fields to keep our horse and ponies in shape. O﻿ur Tail Spin Family attends clinics, horseshows, paperchases, 4-h events, and more on a monthly basis. Check out our upcoming events to see what's happening around the barn. We are located near Hibernia Park and Marsh Creek State Park for those that like to venture out to bigger adventures. We are conveniently located between Harrisburg and Philadelphia.
+
+
+
 ### Lessons:
 
-Private and group lessons are available on our horses year round. Trailer in's are also welcomed. We have a large lit outdoor arena filled with lots of school jumps as well has hacking fields for conditioning. When the weather is not cooperating for mounted lessons, we will utilize the time with unmounted lessons. There is so much to be learned from the ground. Lesson waivers can be found on our form page.
+W﻿e welcome students of all ages and riding levels. Private and group lessons are available on our horses year round. Trailer in's are also welcomed. We have a large lit outdoor arena filled with lots of school jumps as well has hacking fields for conditioning. When the weather is not cooperating for mounted lessons, we will utilize the time with unmounted lessons. There is so much to be learned from the ground. Lesson waivers can be found on our form page.
 
 Private lessons are $75 per hour 48 hour cancelation policy
 
