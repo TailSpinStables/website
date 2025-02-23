@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tail Spin Stables
-image: /img/horse-face.webp
+image: /img/indoor.webp
 heading: Lasting Memories
 subheading: Where we can connect
 mainpitch:
