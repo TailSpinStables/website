@@ -13,13 +13,12 @@ description: Tail Spin Stables is the barn where memories are made and knowledge
 intro:
   blurbs:
     - image: /img/blondie-beach.jpg
-      text: "Blondie swimming in the ocean at Grove Point"
+      text: Blondie swimming in the ocean at Grove Point
   heading: What we offer
   description: |-
     Private Lessons
     Group Lessons
     Tiny Tot Lessons
-    4-H
     Mom Groups
     Birthday Parties
     Summer Camps
@@ -32,12 +31,12 @@ main:
   description: |
     ...
   image1:
-    alt: "Learning a new skill set"
+    alt: Learning a new skill set
     image: /img/vaulting.jpg
   image2:
-    alt: "Long walks and life lessons"
+    alt: Long walks and life lessons
     image: /img/norahandnorah-girl-talk.jpg
   image3:
-    alt: "Showing off our skills"
+    alt: Showing off our skills
     image: /img/ground-work.jpg
 ---
