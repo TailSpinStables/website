@@ -27,8 +27,4 @@ testimonials:
   - author: Philipp Trommler
     quote: Tail Spin Stables is the place to go if you want the best quality horse.
 full_image: /img/ground-work.jpg
-pricing:
-  heading: Please see About Page
-  description: ..
-  plans: []
 ---
