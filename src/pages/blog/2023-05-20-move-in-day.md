@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Move In Day
 date: 2023-05-20T18:32:51.961Z
 description: June 1st 10am-4pm
-featuredpost: true
+featuredpost: false
 featuredimage: /img/piper-girths.jpg
 tags:
   - move in day
