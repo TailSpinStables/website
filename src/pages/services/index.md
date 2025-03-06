@@ -4,8 +4,8 @@ path: /services
 templateKey: services-page
 title: What We Offer
 image: /img/karli-baby-butt.jpg
-description: Lessons,Birthday Parties, Mom's Night Out, Mommy and Me, Camps,
-  Sleepovers, Horse Shows, Clinics, Ground Work.
+description: Lessons, Mom's Night Out, Mommy and Me, Camps,
+  Horse Shows, Clinics, Ground Work.
 intro:
   blurbs: []
   heading: Please let Tail Spin know how we can meet your needs
