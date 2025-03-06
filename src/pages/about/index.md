@@ -67,11 +67,11 @@ Summer Camp is a great way to have a summer filled with memories. Children 6 yea
 
 2﻿025 Summer Camp Dates:
 
-M﻿ay 17-18 Sleepover Camp (cost is $200)
+M﻿ay 17-18 Pony Camp
 
 J﻿une 9-13 Pony Camp
 
-J﻿une 21-22 Sleepover Camp (cost is $200) 
+J﻿une 21-22 Pony Camp
 
 J﻿une 30-July 4 Pony Camp
 
