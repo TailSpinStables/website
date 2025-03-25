@@ -1,5 +1,5 @@
 ---
-title: Horse Shows
 templateKey: about-page
+title: Horse Shows
 ---
-Lorem Ipsum
+P﻿lease visit https://triangleshowseries.com/2025-prizelist/ for the updated show schedule
