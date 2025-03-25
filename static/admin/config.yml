@@ -133,87 +133,54 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/services/index.md"
-        label: "Services Page"
-        name: "services"
+      - file: "src/pages/boarding/index.md"
+        label: "Boarding"
+        name: "boarding"
         fields:
           - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "services-page",
+              default: "about-page",
             }
-          - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Description, name: description, widget: string }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/lessons/index.md"
+        label: "Lessons"
+        name: "lessons"
+        fields:
           - {
-              label: Intro,
-              name: intro,
-              widget: object,
-              fields:
-                [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
-                  {
-                    label: Blurbs,
-                    name: blurbs,
-                    widget: list,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Text, name: text, widget: text },
-                      ],
-                  },
-                ],
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/camps/index.md"
+        label: "Camps"
+        name: "camps"
+        fields:
           - {
-              label: Main,
-              name: main,
-              widget: object,
-              fields:
-                [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
-                  {
-                    label: Image1,
-                    name: image1,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
-                      ],
-                  },
-                  {
-                    label: Image2,
-                    name: image2,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
-                      ],
-                  },
-                  {
-                    label: Image3,
-                    name: image3,
-                    widget: object,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
-                      ],
-                  },
-                ],
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "src/pages/horse-shows/index.md"
+        label: "Horse Shows"
+        name: "horse-shows"
+        fields:
           - {
-              label: Testimonials,
-              name: testimonials,
-              widget: list,
-              fields:
-                [
-                  { label: Quote, name: quote, widget: string },
-                  { label: Author, name: author, widget: string },
-                ],
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
             }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
