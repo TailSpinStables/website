@@ -1,5 +1,6 @@
 ---
 title: Lessons
+templateKey: about-page
 ---
 TSS welcome students of all ages and riding levels. Private and group lessons are available on our horses year round. Trailer in's are also welcomed. We have a large lit outdoor arena filled with lots of school jumps as well has hacking fields for conditioning. When the weather is not cooperating for mounted lessons, we will utilize the time with unmounted lessons. There is so much to be learned from the ground. Lesson waivers can be found on our form page.
 
