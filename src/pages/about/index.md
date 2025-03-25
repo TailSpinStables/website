@@ -52,29 +52,3 @@ M﻿iss Yuri 20 year old 15.2 Quarter Horse
 C﻿hip 6 year old Mini
 
 \*\*All of our wonderful horse and ponies are available for on property half lease. This includes 3 rides per week, one of them must be a lesson. The cost for this is $600 per month plus every other shoeing.
-
-### Upcoming Events
-
- Also﻿ see our Facebook Page for upcoming events
-
-### H﻿orse Shows
-
-P﻿lease visit https://triangleshowseries.com/2025-prizelist/ for the updated show schedule
-
-### Summer Camp
-
-Summer Camp is a great way to have a summer filled with memories. Children 6 years old and older are welcome to join us. Cost is $450 per week. Please bring a bathing suit, towel, sunblock, a ready to eat lunch and water bottle. Please make sure to bring your boots and helmet as well. Please reach out if you have any other question. Payment must be payed in full 2 weeks prior to camp. You will find camp forms on our form page.
-
-2﻿025 Summer Camp Dates:
-
-M﻿ay 17-18 Pony Camp
-
-J﻿une 9-13 Pony Camp
-
-J﻿une 21-22 Pony Camp
-
-J﻿une 30-July 4 Pony Camp
-
-J﻿uly 21-25 Pony Camp
-
-A﻿ug 4-8 Pony Camp
